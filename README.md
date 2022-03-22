@@ -2,4 +2,10 @@
 
 # here are the images from my app:
 
-[url=https://www.hizliresim.com/oykcafv][img]https://i.hizliresim.com/oykcafv.png[/img][/url]
+![img](https://i.hizliresim.com/oykcafv.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/i8599pa.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/m2ioxc7.png?raw=true "Title")
+
+
